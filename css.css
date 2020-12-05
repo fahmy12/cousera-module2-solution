@@ -18,14 +18,24 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: black;
+  position: relative;
 }
 
- .box{
-  width: 10px;
-  border: 15px solid green;
-  padding: 5px;
-  margin: 2px;
+small {
+  width: 120px;
+  height: 30px;
+  border: 1px solid black;
+  margin-bottom: 15px;
 }
+#t1 {
+  background-color: #A52A2A;
+  position: absolute;
+  top: 0;
+  right: 0;
+  
+}
+
+
 
 /* Simple Responsive Framework. */
 .row {
