@@ -28,11 +28,31 @@ small {
   margin-bottom: 15px;
 }
 #t1 {
-  background-color: #A52A2A;
+  background-color: #b0d2d4;
+  font-size: 150%;
   position: absolute;
   top: 0;
   right: 0;
+  text-align: center;
   
+}
+#t2 {
+  background-color: #c4232b;
+  color: #FFFFFF;
+  font-size: 150%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-align: center;
+  
+}
+#t3 {
+  background-color: #f2c4aa;
+  font-size: 150%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-align: center;
 }
 
 
